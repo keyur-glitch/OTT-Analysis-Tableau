@@ -1,4 +1,4 @@
-- Hi, I’m @keyur-glitch
+- Hi, I’m @keyur-tableau
 - I’m interested in Data Analysis
 - I’m currently learning Python
 - 💞️ I’m looking to collaborate on Tableau projects
